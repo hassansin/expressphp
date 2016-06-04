@@ -3,11 +3,11 @@
     "description": "A ReactPHP micro-framework inspired by ExpressJS",
     "type": "library",
     "require": {
-        "react/react": "^0.5.0@dev",
-        "pimple/pimple": "^3.0@dev",
-        "nikic/fast-route": "dev-master",
-        "twig/twig": "^2.0@dev",
-        "dflydev/apache-mime-types": "^1.0@dev"
+        "react/react": "^0.4.2",
+        "pimple/pimple": "^3.0.2",
+        "nikic/fast-route": "1.0.0",
+        "twig/twig": "^1.24.1",
+        "dflydev/apache-mime-types": "^1.0.1"
     },
     "require-dev": {
         
