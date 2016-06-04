@@ -16,7 +16,7 @@
         "psr-4": {
             "ExpressPHP": "src/"
         }
-    }
+    },
     "license": "MIT",
     "authors": [
         {
