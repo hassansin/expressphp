@@ -1,0 +1,28 @@
+{
+    "name": "hassansin/expressphp",
+    "description": "A ReactPHP micro-framework inspired by ExpressJS",
+    "type": "library",
+    "require": {
+        "react/react": "^0.5.0@dev",
+        "pimple/pimple": "^3.0@dev",
+        "nikic/fast-route": "dev-master",
+        "twig/twig": "^2.0@dev",
+        "dflydev/apache-mime-types": "^1.0@dev"
+    },
+    "require-dev": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "ExpressPHP": "src/"
+        }
+    }
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hassansin",
+            "email": "mhkr63@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
